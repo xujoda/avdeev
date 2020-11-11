@@ -1,0 +1,109 @@
+body {
+
+    background-image: url(https://lh3.googleusercontent.com/proxy/XBjqNfIh0zNAobxc6vY5IrMO7H50FwPD_HvXfrUcl0ckDxm2FnmvwermkDrA3zKiGGxtmHv6qIAz9-p7kYKdYUzxJePjqCmclUXZKbx-0WkeZWM);
+
+}
+
+header {
+    margin: 0px 100px 0px 100px;
+
+}
+
+.main {
+    background-color: #f0f0f0;
+    padding: 20px 150px 50px 200px;
+    margin: 20px auto;
+    width: 900px;
+    height: auto;
+    border: 7px double black;
+}
+
+h1 {
+    width: 100px auto;
+    height: 100px auto;
+    box-shadow: 0 0 0 3px grey, 
+                0 0 0 6px black,
+                0px 0 0 9px grey;
+   }
+
+
+ul {
+    font-size: 16pt;
+    padding: 10px;
+}
+
+.image {
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #333333;
+    float: right;
+    margin-right: 110px;
+   }
+
+.table-info {
+    font-size: 20px;
+    color: black;
+}
+
+.table-info th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.tab-1 {
+    border-collapse: collapse;
+}
+
+.tab-1 td {
+    border: 1px solid black;
+    padding: 15px;
+    padding-left: 150px;
+}
+
+.tab-1 caption {
+    caption-side: top;
+    text-align: left;
+    font-size: 18pt;
+}
+
+.tab-2 {
+    border-collapse: collapse;
+}
+
+.tab-2 td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.tab-2 caption {
+    caption-side: top;
+    text-align: left;
+    font-size: 18pt;
+}
+
+.form_1 {
+    font-size: 25px;
+    width: 500px;
+    //margin: 0 auto;
+    padding: 20px;
+
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+
+
+.form_2 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    width: 500px;
+    //margin: 0 auto;
+    padding: 20px;
+
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
